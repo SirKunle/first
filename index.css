@@ -1,0 +1,20 @@
+.detail h1{
+    font-size: 50;
+    color: #212121;
+    margin-bottom: 20px;
+}
+
+.detail p{
+    color: #555;
+    line-height: 22px;
+}
+.detail a{
+    background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
